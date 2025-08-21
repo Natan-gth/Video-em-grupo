@@ -1,0 +1,19 @@
+body {
+    color: black; /* cor do texto */
+    background: white; /* cor da página */
+    align-items: center;
+    display: flex;
+    font-family: 'Arial Black', Gadget, sans-serif; 
+    font-weight: bold; 
+}
+
+
+.caixa {
+  background: black;
+  color: white;                 /* garante contraste do texto */
+  display: flex;
+  align-items: center;
+  padding: 3px;              
+  border-radius: 10px;        
+  box-sizing: border-box;      
+}
